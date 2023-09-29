@@ -83,6 +83,6 @@
 ||analytics-sg.tiktok.com^
 ||advertising.yandex.ru^
 ||extmaps-api.yandex.net^
-||script_ads^
-||script_pagead^
-||script_partenrads^
+||script_ads^$script,third-party,important
+||script_partnerads^$script,third-party,important
+||script_pagead^$script,third-party,important
