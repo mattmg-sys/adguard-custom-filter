@@ -40,3 +40,6 @@
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
 ||ak.deephicy.net^
+||ads.js$third-party
+||pageads.js$third-party
+||partner.ads.js$third-party
