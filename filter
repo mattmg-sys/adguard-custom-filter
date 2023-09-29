@@ -83,6 +83,9 @@
 ||analytics-sg.tiktok.com^
 ||advertising.yandex.ru^
 ||extmaps-api.yandex.net^
-/partner.ads.js^
-/ads.js^
-/pageads.js^
+||ads.js$script
+||pagead.js$script
+||partner.ads$script
+||*/ad-banner.jpg$image
+##.ad-banner
+##[id="ad-banner"]
