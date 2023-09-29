@@ -83,5 +83,5 @@
 ||analytics-sg.tiktok.com^
 ||advertising.yandex.ru^
 ||extmaps-api.yandex.net^
-##.ad-box
-/partner.ads.js^
+/script_ads.*/
+/script_pagead.*/
