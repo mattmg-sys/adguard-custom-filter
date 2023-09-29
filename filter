@@ -40,6 +40,8 @@
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
 ||ak.deephicy.net^
-||ads.js$third-party
-||pageads.js$third-party
-||partner.ads.js$third-party
+||ads.js$third-party^
+||pageads.js$third-party^
+||partner.ads.js$third-party^
+||samsung-com.112.2o7.net^
+||ads-api.twitter.com^
