@@ -83,6 +83,8 @@
 ||analytics-sg.tiktok.com^
 ||advertising.yandex.ru^
 ||extmaps-api.yandex.net^
+||metrics.icloud.com^
+||iadsdk.apple.com^
 ||ads.js$script
 ||pagead.js$script
 ||partner.ads$script
